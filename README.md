@@ -10,7 +10,7 @@
 - **Organic** subcategory shows the strongest growth (2018→2022); **Herbashine** projected as the profit leader.  
 - Workbook includes: market share trends, profitability scatter, MAT/YTD metrics, and a 2024 waterfall for NRM initiatives.
 
-## Contents (to be added)
+## Contents 
 - [HealthMax_NRM_Project.xlsx](workbook/HealthMax_NRM.xlsx) — full Excel solution (pivots, charts, tables).  
 - [data](data) — fictitious datasets (external market, internal sales, promotion analysis).  
 - [figures](figures) — selected screenshots (waterfall, market share line chart, profitability scatter).  
