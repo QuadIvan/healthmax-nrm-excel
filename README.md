@@ -12,6 +12,6 @@
 
 ## Contents (to be added)
 - [HealthMax_NRM_Project.xlsx](workbook/HealthMax NRM.xlsx) — full Excel solution (pivots, charts, tables).  
-- `/data/` — fictitious datasets (external market, internal sales, promotion analysis).  
+- [data](data) — fictitious datasets (external market, internal sales, promotion analysis).  
 - `/figures/` — selected screenshots (waterfall, market share line chart, profitability scatter).  
 - `/docs/` — executive summary and methodology.
