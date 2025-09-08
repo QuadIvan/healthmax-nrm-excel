@@ -24,3 +24,12 @@
 - **Promotion Analysis (Shinez, 2022):** “Buy 2, Get 1 Free” delivered the highest ROI; baseline sales and uplift calculated using AVERAGEIFS and VLOOKUP.  
 - **Forecast (2023–2024):** Net Sales projected -0.93% in 2023 vs. 2022, then +3.99% in 2024 vs. 2022 (+4.975% vs. 2023).  
 - **NRM Initiatives Impact:** Estimated Net Sales 2024 with NRM = $24,805,694.99 (+16.46% vs. 2022), compared to +4.98% natural growth. Incremental gain: $3,506,242.32.  
+
+![Waterfall Chart](figures/waterfall.png)
+*Estimated Net Sales 2024 with NRM initiatives vs natural growth*  
+
+![Forecast Chart](figures/forecast_2024.png)
+*Projected Net Sales 2023–2024 based on historical data and internal ratios* 
+
+![Profitability Scatter](figures/healthmax_profitability_matrix.png)
+*Gross Margin vs Net Sales Contribution (product variants)* 
