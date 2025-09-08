@@ -11,7 +11,7 @@
 - Workbook includes: market share trends, profitability scatter, MAT/YTD metrics, and a 2024 waterfall for NRM initiatives.
 
 ## Contents (to be added)
-- [HealthMax_NRM_Project.xlsx](PK) — full Excel solution (pivots, charts, tables).  
+- [HealthMax_NRM_Project.xlsx](workbook/HealthMax_NRM.xlsx) — full Excel solution (pivots, charts, tables).  
 - [data](data) — fictitious datasets (external market, internal sales, promotion analysis).  
-- `/figures/` — selected screenshots (waterfall, market share line chart, profitability scatter).  
-- `/docs/` — executive summary and methodology.
+- [figures](figures) — selected screenshots (waterfall, market share line chart, profitability scatter).  
+- [docs](docs) — executive summary and methodology.
