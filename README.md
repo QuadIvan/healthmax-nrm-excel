@@ -25,6 +25,8 @@
 - **Forecast (2023–2024):** Net Sales projected -0.93% in 2023 vs. 2022, then +3.99% in 2024 vs. 2022 (+4.975% vs. 2023).  
 - **NRM Initiatives Impact:** Estimated Net Sales 2024 with NRM = $24,805,694.99 (+16.46% vs. 2022), compared to +4.98% natural growth. Incremental gain: $3,506,242.32.  
 
+## Screenshots
+
 ![Waterfall Chart](figures/waterfall.png)
 *Estimated Net Sales 2024 with NRM initiatives vs natural growth*  
 
